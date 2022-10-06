@@ -1,0 +1,3 @@
+public_meeting - create column for missing (boolean)
+scheme_management - create 'unknown' value before encoding
+permit - create column for missing (boolean)

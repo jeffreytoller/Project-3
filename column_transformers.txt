@@ -1,0 +1,5 @@
+categorical - one hot encode - (create column for missing values)
+ordinal - convert to 0 and 1 from True False (create column for missing values)
+datetime - convert to datetime
+big_categorical - one hot encode - (create column for missing values and values under certain value)
+leave_out
